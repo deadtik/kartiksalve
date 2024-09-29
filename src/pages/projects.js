@@ -160,7 +160,7 @@ return (
             title = 'GSOC: LPython Compiler'
              img = {project5}
              link='https://summerofcode.withgoogle.com/'
-             github='/https://github.com/lcompilers/lpython'
+             github='https://github.com/lcompilers/lpython'
              type='Actively Contributing'
            />
            </div>
