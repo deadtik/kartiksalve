@@ -81,13 +81,13 @@ const about = () => {
             <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-6xl font-bold md:text-5xl sm:text-4xl xs:text-3xl">
-                  <AnimatedNumbers value={100} />+
+                  <AnimatedNumbers value={60} />+
                 </span>
                 <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">Satisfied Clients</h2>
               </div>
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-6xl font-bold md:text-5xl sm:text-4xl xs:text-3xl">
-                  <AnimatedNumbers value={90} />+
+                  <AnimatedNumbers value={50} />+
                 </span>
                 <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">Projects Completed</h2>
               </div>
