@@ -39,7 +39,7 @@ import TransitionEffect from '@/components/transitionEffect'
                 I've mastered video editing with Adobe Premiere Pro, allowing me to seamlessly integrate visual storytelling into my projects. 
                 </p>
                 <div className='flex items-center self-start mt-2 lg:self-center'>
-                  <Link href="/Vision and Mission.pdf" target='_blank' className='flex items-left bg-dark text-light p-2 px-2.5 rounded-lg text-lg font-semibold hover:bg-light
+                  <Link href="/Resume2025.pdf" target='_blank' className='flex items-left bg-dark text-light p-2 px-2.5 rounded-lg text-lg font-semibold hover:bg-light
                    hover:text-dark border-2 border-solid border-transparent hover:border-dark
                    dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light
                    md:p-2 md:px-4 md:text-base'>
