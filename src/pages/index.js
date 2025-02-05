@@ -43,7 +43,7 @@ import TransitionEffect from '@/components/transitionEffect'
                    hover:text-dark border-2 border-solid border-transparent hover:border-dark
                    dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light
                    md:p-2 md:px-4 md:text-base'>
-                    Vision! <LinkArrow className='w-6 ml-1' />
+                    Resume <LinkArrow className='w-6 ml-1' />
                   </Link>
                   <Link href="mailto:techateshq@gmail.com" target='_blank' className='ml-4 text-lg font-medium capitalize 
                   text-dark underline dark:text-light md:text-base'>
